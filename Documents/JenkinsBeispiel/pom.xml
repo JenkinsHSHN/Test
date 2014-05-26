@@ -5,7 +5,7 @@
   <groupId>de.philulay</groupId>
   <artifactId>JenkinsBeispiel</artifactId>
   <version>1</version>
-  <packaging>jar</packaging>
+
 
   <name>JenkinsBeispiel</name>
   <url>http://maven.apache.org</url>
